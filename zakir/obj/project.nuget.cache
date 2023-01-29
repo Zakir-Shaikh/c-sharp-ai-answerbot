@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/j9sMOXHkbNmQrC8KJAl9Prb+wtYLbdmoDGpuCntRJwcDXd9wHlwK8W8VVC3OSy9UrkshY0RPbElAdkKWPXnMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zakir\\OneDrive\\Desktop\\ml delivery\\zakir\\zakir\\zakir.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zakir\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

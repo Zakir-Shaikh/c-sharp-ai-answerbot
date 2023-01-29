@@ -1,0 +1,17 @@
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\bin\Debug\net6.0\zakir.exe
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\bin\Debug\net6.0\zakir.deps.json
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\bin\Debug\net6.0\zakir.runtimeconfig.json
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\bin\Debug\net6.0\zakir.dll
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\bin\Debug\net6.0\zakir.pdb
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.csproj.AssemblyReference.cache
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.AssemblyInfoInputs.cache
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.AssemblyInfo.cs
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.csproj.CoreCompileInputs.cache
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.csproj.CopyComplete
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.dll
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\refint\zakir.dll
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.pdb
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\zakir.genruntimeconfig.cache
+C:\Users\zakir\OneDrive\Desktop\ml delivery\zakir\zakir\obj\Debug\net6.0\ref\zakir.dll
